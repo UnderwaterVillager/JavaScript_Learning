@@ -1,0 +1,2 @@
+-   Objects: structuring and destructuring
+-   Babel, Javascript compiler
