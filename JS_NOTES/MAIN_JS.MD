@@ -7,10 +7,6 @@
 
 ##  CREATING OBJECTS
 -   Can be created by literals(attribution of data, something = {}), creating numerous object if inside a loop or function.
--   By built-in
- constructor
+-   By built-in constructor
 ## DESTRUCTURING OBJECTS
 
-```
-
-```
